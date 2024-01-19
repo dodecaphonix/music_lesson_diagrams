@@ -6,7 +6,7 @@
 
 ## Voicing definitions
 
-First, let's define out voicings using C as our root.
+First, let's define our voicings using C as our root.
 
 Low root position `<R`
 
